@@ -6,7 +6,7 @@
 // @include     *
 // @updateURL   https://raw.github.com/pykiss/anti-AEDE/master/script.user.js
 // @copyright   Antonio Fernández Porrúa. Pau Capó. Licencia     GPL
-// @require     https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js
+// @require     http://code.jquery.com/jquery-1.11.0.min.js
 // @require     http://pykiss.github.io/anti-AEDE/javascripts/jquery.minicolors.js
 // @grant       GM_getValue
 // @grant       GM_setValue
