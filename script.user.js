@@ -342,7 +342,7 @@ $(function () {
 		/(^|(^[^\/]*\.)|(^http(s?):\/\/)|(^http(s?):\/\/)[^\/]*\.)diariojaen\.es(\/|$)/,
 		/(^|(^[^\/]*\.)|(^http(s?):\/\/)|(^http(s?):\/\/)[^\/]*\.)diarideterrassa\.es(\/|$)/,
 		/(^|(^[^\/]*\.)|(^http(s?):\/\/)|(^http(s?):\/\/)[^\/]*\.)eladelantado\.com(\/|$)/,
-		/(^|(^[^\/]*\.)|(^http(s?):\/\/)|(^http(s?):\/\/)[^\/]*\.)Contacto\.asp(\/|$)/,
+//		/(^|(^[^\/]*\.)|(^http(s?):\/\/)|(^http(s?):\/\/)[^\/]*\.)Contacto\.asp(\/|$)/,
    ],
    defaults_general = {
       background: '#ffe9e9',
