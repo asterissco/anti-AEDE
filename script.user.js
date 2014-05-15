@@ -1,7 +1,15 @@
 // ==UserScript==
-//
-//  fork de https://github.com/FabianPastor/anti-AEDE
-//
+// @name       anti AEDE
+// @namespace   http://www.meneame.net/
+// @version     1.1
+// @description  marcar en rojo
+// @include     *
+// @updateURL   https://raw.githubusercontent.com/asterissco/anti-AEDE/master/script.user.js
+// @copyright   Antonio FernÃ¡ndez PorrÃºa. Pau CapÃ³. Licencia     GPL
+// @require     https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js
+// @require     http://pykiss.github.io/anti-AEDE/javascripts/jquery.minicolors.js
+// @grant       GM_getValue
+// @grant       GM_setValue
 // ==/UserScript==
 
 /* jshint -W030 */ // para poder usar a && b como atajo para if(a) b
