@@ -6,7 +6,7 @@ Antes de nada decir que este script NO es mejor que en el que se basa, solo tien
 crear el Script original, con JS me apaño pero no es lo mio xD.
 
 Debido a que una noticia fue descartada por ser de AEDE cuando, en mi opinión, no es de AEDE, he creado un
-script agregado en PHP que filtra los sistios oficialmente agregados a AEDE descritos en la misma web de AEDE
+script agregado en PHP que filtra los sitios oficialmente agregados a AEDE descritos en la misma web de AEDE
 
 La noticia descartada, por ser de cadenaser fue
 
@@ -40,7 +40,7 @@ Si encontraís algun bug o teneís alguna propuesta podeis usar el apartado de I
 1. Instalar el plugin necesario para tu navegador
   * Firefox: [Greasemonkey](https://addons.mozilla.org/es/firefox/addon/greasemonkey/) o [Scriptish](https://addons.mozilla.org/en-US/firefox/addon/scriptish/) (es necesario reiniciar)
   * Chrome/Chromium: [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
-2. Instalar el anti-AEDE desde [este enlace](https://github.com/pykiss/anti-AEDE/raw/master/script.user.js).
+2. Instalar el anti-AEDE desde [este enlace](https://raw.githubusercontent.com/asterissco/anti-AEDE/master/script.user.js).
 
 ### Actualización
 
